@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Sentiment Analysis",
+    "desc": "Utilized a deep learning BERT-based model to conduct sentiment analysis, in accurately classifying reviews into positive or negative",
+    "image": "Sentimen",
+    "category": "deap-learning",
+    "links": {
+      "view": "https://drive.google.com/file/d/104gjEck1NiU-o9IBeEQbxzq4UixesZpi/view?usp=sharing",
+      "code": "https://github.com/ZidanARajendra/Sentiment-Analysis-Grab.git"
+    }
+  },
+  {
+    "name": "Stock Price Forecasting",
+    "desc": "Built a time series forecasting model with Prophet to anticipate GGRM stock prices, accounting for both seasonality and trend elements.",
+    "image": "Forecasting",
+    "category": "machine-learning",
+    "links": {
+      "view": "https://drive.google.com/file/d/1NxLgcpfUAKBvniRJqTfW49RlJQdFvbgP/view?usp=sharing",
+      "code": "https://github.com/ZidanARajendra/TIme-Series-Forecasting-GGRM-Stock.git"
+    }
+  },
+  {
+    "name": "RFM Analysis",
+    "desc": "Examined customer behavior through RFM analysis to evaluate recency, frequency, and monetary",
+    "image": "RFM",
+    "category": "data-analysis",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Bp0vRcRAzjN0edwi8BLxUOtsdG_hVSMP/view?usp=sharing",
+      "code": "https://github.com/ZidanARajendra/Retail-Store-RFM-Analysis.git"
+    }
+  },
+  {
+    "name": "Cohort Analysis",
+    "desc": "Examined customer retention patterns for every category based on each category product lifecycle.",
+    "image": "Cohort",
+    "category": "data-analysis",
+    "links": {
+      "view": "https://drive.google.com/file/d/1_lqYdbKpbvCrsTUMyOdrrURmZBBcmXRb/view?usp=sharing",
+      "code": "https://github.com/ZidanARajendra/Cohort-Retention-Anlysis.git"
+    }
+  },
+  {
+    "name": "Used Car Price Prediction",
+    "desc": "Developed a predictive model using XGBoost to estimate used car prices, leveraging its superior performance in handling complex datasets.",
+    "image": "CarPrice",
+    "category": "machine-learning",
+    "links": {
+      "view": "https://www.canva.com/design/DAGfOA5kng4/hk6PMewt9lQkPi8JE6DGLA/view?utm_content=DAGfOA5kng4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfbac72a783",
+      "code": "https://github.com/ZidanARajendra/Capstone-3-Purwadhika.git"
+    }
+  },
+  {
+    "name": "SAAS Data Anlysis",
+    "desc": "conducting a data analysis to assess the impact of the COVID-19 pandemic on company profitability by comparing profits from the pandemic period post-pandemic period , identifying significant changes in customer",
+    "image": "Saas",
+    "category": "Data Analysis",
+    "links": {
+      "view": "https://www.canva.com/design/DAGcF0_gMvY/JbcOQWNMWGTcXJbdcza_uw/view?utm_content=DAGcF0_gMvY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h12facc2bfa",
+      "code": "https://github.com/ZidanARajendra/Capstone-2-Purwadhika.git"
+    }
+  },
+  {
+    "name": "Inventory Management System",
+    "desc": "Developed a robust Inventory Management System tailored for restaurants, designed to streamline stock tracking, reduce waste, and optimize resource allocation using the Django framework",
+    "image": "ims3",
+    "category": "other",
+    "links": {
+      "view": "https://drive.google.com/file/d/18kgkMeYPvEBsw8VTVOxsfbkxYAQf_5gW/view",
+      "code": "https://github.com/ZidanARajendra/Inventory-Management-System.git"
+    }
+  }
+]
